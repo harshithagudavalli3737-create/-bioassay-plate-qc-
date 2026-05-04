@@ -57,4 +57,4 @@ pass/fail determination, risk-level assignment, and weekly trend analysis.
 
 ## Dashboard Preview
 
-![Bioassay QC Dashboard](BioassayQC_Dashboard_HGudavalli.png)
+![Bioassay QC Dashboard](BioassayQC_Dashboard_HGudavalli%20(3).png)
